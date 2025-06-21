@@ -28,7 +28,7 @@ const Header = () => {
               <Github className="h-6 w-6 text-white" />
             </div>
             <h1 className="text-xl font-bold bg-gradient-to-r from-white to-gray-300 bg-clip-text text-transparent">
-              Git & GitHub Mastery
+              Git& GitHub Mastery
             </h1>
           </div>
 
