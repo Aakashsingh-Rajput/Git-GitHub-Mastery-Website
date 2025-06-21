@@ -51,7 +51,7 @@ const AIChat = () => {
     'merge conflict': 'Occurs when Git can\'t automatically merge changes. Requires manual resolution by choosing which changes to keep.',
     'remote': 'A version of your repository hosted on a server (like GitHub, GitLab, or Bitbucket).',
     'origin': 'The default name for the main remote repository, typically where you cloned from.',
-    'main': 'The default branch name in modern Git repositories (replaced "master" as the standard).',
+    'mai': 'The default branch name in modern Git repositories (replaced "master" as the standard).',
     'master': 'The traditional default branch name, now often replaced with "main" for inclusivity.',
   };
 
