@@ -1,23 +1,23 @@
-# 🔧 Git & GitHub Mastery
+#  Git & GitHub Mastery
 
 An advanced, interactive guide to mastering Git and GitHub — designed for developers, students, and teams. This web app features a simulated terminal, AI-powered Git assistant, and real-world Git workflows, all built using React, TypeScript, and Tailwind CSS.
 
-## 🚀 Features
+##  Features
 
-- 📘 Step-by-step Git & GitHub tutorials
-- 💻 Interactive terminal with command history and autocomplete
-- 🤖 AI assistant 
-- 🌐 Clean, responsive UI built with Tailwind CSS
-- 🧠 Beginner-friendly with advanced workflow demos
-- ⚙️ Developer tools like command cards, mock commit graph, and quizzes
+-  Step-by-step Git & GitHub tutorials
+-  Interactive terminal with command history and autocomplete
+-  AI assistant 
+-  Clean, responsive UI built with Tailwind CSS
+-  Beginner-friendly with advanced workflow demos
+-  Developer tools like command cards, mock commit graph, and quizzes
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **React.js**
 - **TypeScript**
 - **Tailwind CSS**
 
-## 📦 Getting Started
+##  Getting Started
 
 ```bash
 # Step 1: Clone the repository
