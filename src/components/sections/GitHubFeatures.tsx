@@ -14,7 +14,7 @@ const GitHubFeatures = () => {
 
   const content = {
     pullrequests: {
-      title: 'Masterin Pull Requests',
+      title: 'Mastering Pull Requests',
       items: [
         {
           title: 'Creating Effective PRs',
