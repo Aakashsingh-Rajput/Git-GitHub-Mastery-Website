@@ -40,7 +40,7 @@ const CodeBlock: React.FC<CodeBlockProps> = ({ code, language = 'bash', filename
           title="Copy to clipboard"
         >
           {copied ? (
-            <Check className="h-4 w-4 text-green-40" />
+            <Check className="h-4 w-4 text-green-400" />
           ) : (
             <Copy className="h-4 w-4 text-gray-400" />
           )}
