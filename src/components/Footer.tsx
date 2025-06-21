@@ -53,7 +53,7 @@ const Footer = () => {
               </div>
             </div>
             <p className="text-gray-400 mb-6 leading-relaxed">
-              You comprehensive, interactive guide to mastering version control and collaborative development. 
+              Your comprehensive, interactive guide to mastering version control and collaborative development. 
               From beginner basics to advanced workflows, practice with real Git commands in our integrated terminal.
             </p>
             <div className="flex items-center text-gray-400 mb-4">
