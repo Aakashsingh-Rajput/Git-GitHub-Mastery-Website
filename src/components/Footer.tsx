@@ -128,6 +128,14 @@ const Footer = () => {
               Built with React, TypeScript & Tailwind CSS • Designed by Aakashsingh Rajput
             </div>
             <div className="flex items-center space-x-6">
+               <a
+              href="https://aakashrajput.vercel.app"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-sm text-purple-400 hover:underline transition"
+            >
+              Visit My Portfolio
+            </a>
               <div className="text-gray-400 text-sm">Version 2.0</div>
               <div className="flex items-center space-x-2">
                 <div className="w-2 h-2 bg-green-400 rounded-full animate-pulse"></div>
