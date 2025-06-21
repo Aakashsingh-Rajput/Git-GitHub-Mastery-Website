@@ -51,7 +51,7 @@ const GitBasics = () => {
       title: 'Creating Quality Commits',
       description: 'Best practices for commit messages and structure',
       commands: [
-        { cmd: 'gi commit -m "feat: add user authentication"', desc: 'Commit with conventional message', type: 'commit' },
+        { cmd: 'git commit -m "feat: add user authentication"', desc: 'Commit with conventional message', type: 'commit' },
         { cmd: 'git commit --amend', desc: 'Modify the last commit', type: 'commit' },
         { cmd: 'git commit -m "fix: resolve login issue" -m "- Fixed null pointer exception\\n- Added error handling"', desc: 'Multi-line commit message', type: 'commit' },
         { cmd: 'git show HEAD', desc: 'Show details of the last commit', type: 'info' },
