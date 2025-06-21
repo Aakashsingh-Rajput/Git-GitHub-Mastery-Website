@@ -6,7 +6,7 @@ An advanced, interactive guide to mastering Git and GitHub — designed for deve
 
 - 📘 Step-by-step Git & GitHub tutorials
 - 💻 Interactive terminal with command history and autocomplete
-- 🤖 AI assistant powered by OpenAI (optional upgrade)
+- 🤖 AI assistant 
 - 🌐 Clean, responsive UI built with Tailwind CSS
 - 🧠 Beginner-friendly with advanced workflow demos
 - ⚙️ Developer tools like command cards, mock commit graph, and quizzes
