@@ -9,7 +9,7 @@ interface TerminalProps {
 interface CommandHistory {
   command: string;
   output: string;
-  type: 'success' | 'error' | 'info';
+  type: 'success' | 'erro' | 'info';
 }
 
 const Terminal: React.FC<TerminalProps> = ({ className = '' }) => {
